@@ -1,0 +1,7 @@
+# Surowe zdjęcia źródłowe (materiał roboczy, nie pliki strony)
+/Duży dźwig/
+/Mały dźwig/
+/Historia firmy/
+
+# Śmieci systemowe
+.fuse_hidden*
