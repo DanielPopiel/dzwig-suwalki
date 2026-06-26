@@ -246,5 +246,93 @@
     "caption": "Czworonożny członek zespołu w akcji",
     "w": 674,
     "h": 1500
+  },
+  {
+    "file": "assets/img/galeria/galeria-32.jpg",
+    "src_orig": "IMG-20260626-WA0010.jpg",
+    "category": "lodzie",
+    "caption": "Załadunek łodzi motorowej nad jeziorem",
+    "w": 1500,
+    "h": 675
+  },
+  {
+    "file": "assets/img/galeria/galeria-33.jpg",
+    "src_orig": "IMG-20260626-WA0011.jpg",
+    "category": "drogowa",
+    "caption": "Pomoc drogowa przy przewozie uszkodzonej maszyny",
+    "w": 675,
+    "h": 1500
+  },
+  {
+    "file": "assets/img/galeria/galeria-34.jpg",
+    "src_orig": "IMG-20260626-WA0013.jpg",
+    "category": "zycie",
+    "caption": "Bery na posterunku przy pracy dźwigu",
+    "w": 1500,
+    "h": 674
+  },
+  {
+    "file": "assets/img/galeria/galeria-35.jpg",
+    "src_orig": "IMG-20260626-WA0018.jpg",
+    "category": "przemysl",
+    "caption": "Przeładunek maszyny przemysłowej w starej hali produkcyjnej",
+    "w": 1500,
+    "h": 675
+  },
+  {
+    "file": "assets/img/galeria/galeria-36.jpg",
+    "src_orig": "IMG-20260626-WA0021.jpg",
+    "category": "przemysl",
+    "caption": "Dostawa kontenera technicznego na terenie zakładu",
+    "w": 1500,
+    "h": 675
+  },
+  {
+    "file": "assets/img/galeria/galeria-37.jpg",
+    "src_orig": "IMG-20260626-WA0024.jpg",
+    "category": "przemysl",
+    "caption": "Montaż wysokiego komina przemysłowego",
+    "w": 1500,
+    "h": 675
+  },
+  {
+    "file": "assets/img/galeria/galeria-38.jpg",
+    "src_orig": "IMG-20260626-WA0025.jpg",
+    "category": "zycie",
+    "caption": "Bery w okularach ochronnych, gotowy do akcji",
+    "w": 675,
+    "h": 1500
+  },
+  {
+    "file": "assets/img/galeria/galeria-39.jpg",
+    "src_orig": "IMG-20260626-WA0029.jpg",
+    "category": "przemysl",
+    "caption": "Widok z kabiny operatora podczas przeładunku",
+    "w": 1500,
+    "h": 675
+  },
+  {
+    "file": "assets/img/galeria/galeria-40.jpg",
+    "src_orig": "IMG-20260626-WA0031.jpg",
+    "category": "przemysl",
+    "caption": "Transport kamiennej płyty pamiątkowej",
+    "w": 1500,
+    "h": 683
+  },
+  {
+    "file": "assets/img/galeria/galeria-41.jpg",
+    "src_orig": "IMG-20260626-WA0038.jpg",
+    "category": "przemysl",
+    "caption": "Montaż wiązarów dachowych przy budowie hali",
+    "w": 1500,
+    "h": 675
+  },
+  {
+    "file": "assets/img/galeria/galeria-42.jpg",
+    "src_orig": "IMG-20260626-WA0022.jpg",
+    "category": "zycie",
+    "caption": "Pełne wysunięcie wysięgnika na tle nieba",
+    "w": 675,
+    "h": 1500
   }
 ]
