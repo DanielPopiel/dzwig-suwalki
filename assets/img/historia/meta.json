@@ -1,0 +1,66 @@
+[
+  {
+    "file": "assets/img/historia/historia-01.jpg",
+    "src_orig": "Historia firmy/1.JPG",
+    "year": "2011",
+    "caption": "Akcja ratunkowa w trudnych, zimowych warunkach",
+    "w": 1500,
+    "h": 1125
+  },
+  {
+    "file": "assets/img/historia/historia-02.jpg",
+    "src_orig": "Historia firmy/IMAG1182.jpg",
+    "year": "2012",
+    "caption": "Zabezpieczanie miejsca zdarzenia podczas pomocy drogowej",
+    "w": 1500,
+    "h": 1000
+  },
+  {
+    "file": "assets/img/historia/historia-03.jpg",
+    "src_orig": "Historia firmy/IMAG1185.jpg",
+    "year": "2012",
+    "caption": "Postawienie przewróconej naczepy w zimowych warunkach",
+    "w": 1500,
+    "h": 1000
+  },
+  {
+    "file": "assets/img/historia/historia-04.jpg",
+    "src_orig": "Historia firmy/Rakieta.jpg",
+    "year": "2013",
+    "caption": "Montaż pomnika rakiety – jedno z bardziej nietypowych zleceń",
+    "w": 960,
+    "h": 720
+  },
+  {
+    "file": "assets/img/historia/historia-05.jpg",
+    "src_orig": "Historia firmy/20181017_152950.jpg",
+    "year": "2018",
+    "caption": "Prace dźwigowe na budowie",
+    "w": 1500,
+    "h": 1125
+  },
+  {
+    "file": "assets/img/historia/historia-06.jpg",
+    "src_orig": "Historia firmy/IMG-20200514-WA0007.jpg",
+    "year": "2020",
+    "caption": "Praca przy zabytkowej kamienicy",
+    "w": 1500,
+    "h": 710
+  },
+  {
+    "file": "assets/img/historia/historia-07.jpg",
+    "src_orig": "Historia firmy/IMG-20200514-WA0010.jpg",
+    "year": "2020",
+    "caption": "Prace na wysokości przy elewacji budynku",
+    "w": 1500,
+    "h": 710
+  },
+  {
+    "file": "assets/img/historia/historia-08.jpg",
+    "src_orig": "Historia firmy/IMG-20200514-WA0013.jpg",
+    "year": "2020",
+    "caption": "Nasz dźwig podczas pracy w terenie",
+    "w": 710,
+    "h": 1500
+  }
+]
