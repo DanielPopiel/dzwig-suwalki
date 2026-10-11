@@ -5,3 +5,6 @@
 
 # Śmieci systemowe
 .fuse_hidden*
+
+# Zdjecia robocze do wizytowki Google (nie sa czescia strony)
+/fotki wizytowka/
